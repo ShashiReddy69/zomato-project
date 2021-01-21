@@ -1,0 +1,34 @@
+.header_content_size{
+    background-color: red;
+    width: 100%;
+    height: 60px;
+}
+.logo_f{
+    background-color: white;
+    height: 60px;
+    width: 60px;
+    margin-left: 50px;
+    text-align: center;
+    font-size: 36px;
+    color: red;
+    font-weight: 600;
+    border-radius: 55px;
+}
+.buttons_f{
+    position: absolute;
+    top: 13px;
+    right: 14px;
+}
+@media only screen and (max-width:600px){
+    .logo_f{
+        background-color: white;
+        height: 60px;
+        width: 60px;
+        margin-left: 43px;
+        text-align: center;
+        font-size: 36px;
+        color: red;
+        font-weight: 600;
+        border-radius: 55px;
+    }
+}

@@ -1,0 +1,38 @@
+.ov1{
+    border: none;
+    border-bottom: 3px red solid;
+}
+.img{
+    
+    margin-top: 10px;
+}
+.hdr{
+    color: #192f60;
+    margin-top: 10px;
+}
+/*.gallery{
+    background-color:rgb(15, 191, 250);
+    color: white;
+}*/
+.gallery{
+    position: relative;
+    top: -128px;
+    opacity: 0.7;
+}
+.po{
+    margin-left: 49px;
+}
+.about{
+    font-weight: bold;
+    font-size:24px;
+    color: #192f60;
+}
+.head{
+    font-size: 20px;
+    font-weight: bold;
+    color: #192f60;
+}
+.react-tabs__tab--selected{
+    border: none;
+    border-bottom: 3px red solid;
+}

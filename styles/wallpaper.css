@@ -1,0 +1,26 @@
+.suggestionBox{
+    margin: 0 auto;
+    /* padding: 0; */
+    /* max-height: 390px; */
+    /* overflow-y: auto; */
+    /* border: 1px solid rgba(0,0,0,0.1); */
+    padding: 5px 5px 0 5px;
+    /* border-left: none; */
+    /* border-right: none; */
+    position: absolute;
+    top: 35px;
+    right: 277px;
+    width: 319px;
+}
+.suggestionBox > li{
+    list-style: none;
+    background-color: lightgray;
+    padding: 6px 19px 5px 19px;
+    /* border: 1px solid #ccc; */
+    /* box-shadow: inset 1px 1px 0 rgba(255,255,255,0.5); */
+    margin-bottom: 1px;
+    width: 100%;
+    box-sizing: border-box;
+    cursor: pointer;
+    border-radius: 3px;
+}
